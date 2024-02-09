@@ -1,0 +1,12 @@
+# JDT-specific
+.classpath
+
+# Eclipse Core      
+.project
+.settings/
+target/
+test-output
+/bin/
+images
+extReport.html
+allure-results/
