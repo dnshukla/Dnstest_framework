@@ -1,4 +1,4 @@
-package com.kfast.tests;
+package com.dnstest.tests;
 
 import static com.dnstest.init.DriverManager.getDriver;
 import static com.dnstest.init.ITestStatus.FAILED;
